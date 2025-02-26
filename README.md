@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📞 Contact
 For questions, suggestions, or collaborations, reach out via:
 - GitHub Issues
-- Email: [your-email@example.com] *(Replace with actual email)*
+- Email: [open-source@stemgon.co.za] *(Replace with actual email)*
 
 ---
 🔹 *Star the repo if you like this project! ⭐*
