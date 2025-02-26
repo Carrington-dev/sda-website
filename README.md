@@ -1,6 +1,6 @@
 # SDA Website
 
-![SDA Website Banner](https://via.placeholder.com/1000x300?text=SDA+Website)
+![SDA Website Banner](https://raw.githubusercontent.com/SDA-SE/.github/refs/heads/main/profile/img/Banner_sdase.jpg)
 
 ## 📌 About the Project
 The **SDA Website** is an open-source web platform built with **HTML, CSS, and JavaScript**, utilizing **Bootstrap** for responsive design. This project is designed to serve the **Seventh-day Adventist (SDA) community**, providing an accessible and visually appealing website for churches, events, and community updates.
