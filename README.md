@@ -13,7 +13,7 @@ The **SDA Website** is an open-source web platform built with **HTML, CSS, and J
 - 🔗 **Open Source** – Contributions are welcome!
 
 ## 🚀 Live Demo
-[Check out the live website](#) *(Update with the actual link if deployed)*
+[Check out the live website](#) *(https://www.pretoriacitysdachurch.co.za/)*
 
 ## 🏗️ Installation & Setup
 To run this project locally, follow these steps:
@@ -21,6 +21,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Carrington-dev/sda-website.git
+   
    ```
 
 2. **Navigate to the project directory:**
