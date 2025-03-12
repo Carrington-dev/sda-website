@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
    - Simply double-click the file, or
    - Run a local server with:
      ```sh
-     python -m http.server 8000
+     python manage.py runserver 8000
      ```
      Then open `http://localhost:8000` in your browser.
 
@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📞 Contact
 For questions, suggestions, or collaborations, reach out via:
 - GitHub Issues
-- Email: [open-source@stemgon.co.za] *(Replace with actual email)*
+- Email: [open-source@stemgon.co.za] 
 
 ---
 🔹 *Star the repo if you like this project! ⭐*
