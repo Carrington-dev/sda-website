@@ -1,9 +1,12 @@
 from pathlib import Path
+from decouple import config
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
-SECRET_KEY = "*878fpb$aem8$&hpzb3hj7#zk#i6tk=&ds$4(-0^8magdu(-@%"
+SECRET_KEY = config('SECRET_KEY')
+DEBUG = config('DEBUG', default=False, cast=bool)
+EMAIL_HOST = config('EMAIL_HOST', default='localhost')
+EMAIL_PORT = config('EMAIL_PORT', default=25, cast=int)
 
 DEBUG = True
 
