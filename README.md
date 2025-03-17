@@ -11,9 +11,10 @@ The **SDA Website** is an open-source web platform built with **HTML, CSS, and J
 - 🌎 **Community-Focused** – Built for SDA churches and organizations.
 - 🛠️ **Easy to Customize** – Modify content and styles with minimal effort.
 - 🔗 **Open Source** – Contributions are welcome!
+  
 
 ## 🚀 Live Demo
-[Check out the live website](#) *(https://www.pretoriacitysdachurch.co.za/)*
+[Check out the live website](https://www.pretoriacitysdachurch.co.za/)
 
 ## 🏗️ Installation & Setup
 To run this project locally, follow these steps:
